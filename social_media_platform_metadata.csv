@@ -1,0 +1,9 @@
+platform,founded_year,monthly_active_users_millions,primary_content_type,min_age_requirement,has_stories_feature,has_reels_shorts,has_direct_messaging,avg_daily_time_spent_min,revenue_2023_billion_usd,headquarter_country,is_publicly_traded
+Instagram,2010,2000,Photo/Video,13,True,True,True,29,131.9,USA,True
+Snapchat,2011,750,Stories/Chat,13,True,False,True,25,2.8,USA,False
+TikTok,2016,1500,Short Video,13,True,True,True,45,14.2,USA,False
+Twitter/X,2006,450,Text/Media,13,True,False,True,31,3.1,USA,True
+Facebook,2004,3000,Mixed,13,True,True,True,33,116.6,USA,True
+YouTube,2005,2700,Video,13,False,True,False,40,31.5,USA,True
+Pinterest,2010,450,Photo/Ideas,13,False,False,True,14,3.0,USA,True
+LinkedIn,2003,900,Professional,13,False,False,True,17,15.7,USA,True
